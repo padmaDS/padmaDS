@@ -23,4 +23,4 @@ I am a Data Scientist dedicated to bridging the gap between cutting-edge LLM cap
 *   **Deploy at Scale:** Transform AI models into production-ready APIs using serverless AWS architectures.
 *   **Innovate with Agents:** Experiment with and deploy autonomous AI agents to solve multi-step operational challenges.
 
-📫 **How to reach me:** [LinkedIn]([your-linkedin-url-here](https://www.linkedin.com/in/madisettypadma/)) | [Email](mailto:your-email@example.com)
+📫 **How to reach me:** [LinkedIn]([https://www.linkedin.com/in/madisettypadma/]) | [Email](mailto:your-email@example.com)
